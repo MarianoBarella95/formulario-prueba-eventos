@@ -10,7 +10,7 @@ const ocultoDos = document.getElementById('oculto-2')
 function limpiarInput () {
     nombre.value = '';
     nombre.style.backgroundColor = 'white'
-    mail.value = '';
+    mail.value = '@gmail.com';
     contraseña.value = '';
     contraseña.style.backgroundColor = 'white'
     oculto.style.display = 'none'
